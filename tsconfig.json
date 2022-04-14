@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "lib": ["es2017"],
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "downlevelIteration": true
+  },
+  "include": ["./*"],
+}
